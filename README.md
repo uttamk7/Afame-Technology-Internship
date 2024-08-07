@@ -62,10 +62,15 @@ This repository contains a Jupyter Notebook that performs a comprehensive analys
 
 Analysis Overview
 The analysis includes the following steps:
+
 Data Loading and Preprocessing: Importing the Titanic dataset and performing necessary preprocessing steps such as handling missing values and encoding categorical variables.
+
 Exploratory Data Analysis (EDA): Generating descriptive statistics and visualizations to understand the distribution of the data and the relationships between different features.
+
 Survival Analysis: Investigating the factors that influenced the survival rates of the passengers, including demographic information (age, sex), socio-economic status (class), and other relevant attributes.
+
 Feature Engineering: Creating new features from the existing data to improve the analysis and potential predictive modeling.
+
 Predictive Modeling: Building and evaluating machine learning models to predict the survival of passengers based on the available features (optional, if applicable).
 
 
